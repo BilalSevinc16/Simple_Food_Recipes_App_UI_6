@@ -1,16 +1,11 @@
-# simple_food_recipes_app_ui_6
+# Simple Food Recipes App UI 6
 
-A new Flutter project.
+Simple Food Recipes App UI 6
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Food_Recipes_App_UI_6/assets/146417248/1864e1e9-1c31-4e3b-b2b8-ef1c0bf01246)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/BilalSevinc16/Simple_Food_Recipes_App_UI_6/assets/146417248/5b00cd5a-fef6-49e0-8d8d-91b5aaa37c63)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/BilalSevinc16/Simple_Food_Recipes_App_UI_6/assets/146417248/eb9cf306-0c96-4e8a-a11c-05f604370ff9)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/BilalSevinc16/Simple_Food_Recipes_App_UI_6/assets/146417248/60ddb06a-3930-4c3f-ac4d-2364d1bbe215)
